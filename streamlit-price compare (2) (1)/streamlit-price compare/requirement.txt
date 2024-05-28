@@ -1,0 +1,9 @@
+textblob
+pycountry
+langdetect
+bs4
+pandas
+matplotlib
+streamlit
+regex
+plotly
